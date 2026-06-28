@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+}
+
+:root {
+  --primary: 59 130 246;
+  --primary-dark: 37 99 235;
+  --bg: 248 250 252;
+  --surface: 255 255 255;
+  --muted: 241 245 249;
+  --text: 15 23 42;
+  --text-soft: 71 85 105;
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+}
+
+.dark {
+  --bg: 2 6 23;
+  --surface: 15 23 42;
+  --muted: 30 41 59;
+  --text: 248 250 252;
+  --text-soft: 203 213 225;
+  --card: #0f172a;
+  --card-foreground: #f8fafc;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--text));
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background: rgb(var(--primary) / 0.22);
+}

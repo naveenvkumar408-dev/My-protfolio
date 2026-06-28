@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="129.69579mm"
+   height="35.347996mm"
+   viewBox="0 0 129.69579 35.347996"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-31.890049,-118.33893)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.6635px;line-height:0px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:93.4286;paint-order:stroke fill markers"
+       x="68.481926"
+       y="139.4084"
+       id="text1"
+       transform="scale(0.93755764,1.0666011)"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.6635px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:93.4286"
+         x="68.481926"
+         y="139.4084">AVEEN</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke-width:11.2329;paint-order:stroke fill markers"
+       id="path2"
+       cx="49.564045"
+       cy="136.01292"
+       rx="17.673996"
+       ry="17.673998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32.6892px;line-height:0px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#241c1c;stroke-width:9.05213;paint-order:stroke fill markers"
+       x="37.195732"
+       y="151.93391"
+       id="text2"
+       transform="scale(1.0241524,0.97641719)"><tspan
+         id="tspan2"
+         style="fill:#241c1c;stroke-width:9.05213"
+         x="37.195732"
+         y="151.93391">N</tspan></text>
+  </g>
+</svg>

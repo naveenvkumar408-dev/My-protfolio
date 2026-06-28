@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.00603mm"
+   height="35.732189mm"
+   viewBox="0 0 127.00603 35.732189"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-34.579801,-119.49141)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.6635px;line-height:0px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:93.4286;paint-order:stroke fill markers"
+       x="68.481926"
+       y="139.76863"
+       id="text1"
+       transform="scale(0.93755765,1.0666011)"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.6635px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:93.4286"
+         x="68.481926"
+         y="139.76863">AVEEN</tspan></text>
+    <path
+       id="path1"
+       style="fill:#1a1a1a;stroke-width:10.8452;paint-order:stroke fill markers"
+       d="m 51.100757,119.49141 a 16.521345,17.866106 0 0 0 -16.520956,17.8661 16.521345,17.866106 0 0 0 16.520956,17.86609 16.521345,17.866106 0 0 0 16.521472,-17.86609 16.521345,17.866106 0 0 0 -16.521472,-17.8661 z m -11.632882,6.67505 h 6.012036 l 13.203329,16.74626 v -12.41733 c 0,-1.33808 -0.108018,-2.14212 -0.323495,-2.41174 -0.204702,-0.26961 -0.861753,-0.44411 -1.971456,-0.52399 l -0.306958,-0.015 v -1.37821 h 7.530807 v 1.37821 l -0.290938,0.015 c -1.088156,0.0799 -1.73996,0.25438 -1.955437,0.52399 -0.215476,0.26962 -0.322977,1.07366 -0.322977,2.41174 v 18.15393 H 57.72981 l -13.300481,-16.7907 v 12.13259 c 0,1.33808 0.108019,2.14661 0.323495,2.42621 0.215476,0.26961 0.872527,0.43963 1.971456,0.50953 l 0.290938,0.015 v 1.39268 h -7.547343 v -1.39268 l 0.307475,-0.015 c 1.088155,-0.0699 1.73996,-0.23992 1.955436,-0.50953 0.215476,-0.2796 0.322978,-1.08813 0.322978,-2.42621 v -13.49582 c 0,-1.33808 -0.107502,-2.14212 -0.322978,-2.41174 -0.204702,-0.26961 -0.856507,-0.44411 -1.955436,-0.52399 l -0.307475,-0.015 z" />
+  </g>
+</svg>
