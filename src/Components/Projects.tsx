@@ -1,9 +1,11 @@
 import React from "react";
 import { FiActivity, FiGithub, FiExternalLink } from "react-icons/fi";
+import { IoPersonCircle } from "react-icons/io5";
 import Button from "./UI/Button";
 import MotionSection from "./UI/MotionSection";
 import { PerspectiveFlipCard } from "./UI/PerspectiveFlipCard";
 import project1Img from "../assets/project-1.png";
+import profilePic from "../assets/project-2.png"
 
 interface ProjectItem {
   id: number;
@@ -38,6 +40,24 @@ const projectsData: ProjectItem[] = [
     githubUrl: "https://github.com/naveenvkumar408-dev/doc-app-user",
     demoUrl: "https://docapp-frontend-latest.onrender.com",
     image: project1Img
+  },
+  {
+    id: 2,
+    title: "My Protfolio",
+    tagline: "React Typescript with tailwind",
+    description: "This is my protfolio website created using React and Tailwind CSS.",
+    technologies: ["React.js", "Tailwind CSS", "Node.js", "Typscript"],
+    features: [
+      "Responsive Design",
+      "Interactive Animations",
+      "Clean UI/UX"
+    ],
+    gradient: "from-blue-600 via-indigo-600 to-violet-500",
+    Icon: IoPersonCircle,
+    badge: "Protfolio",
+    githubUrl: "https://github.com/naveenvkumar408-dev/My-protfolio",
+    demoUrl: "https://docapp-frontend-latest.onrender.com",
+    image: profilePic
   }
 ];
 
@@ -51,7 +71,7 @@ const Projects = () => {
           </h2>
         </div>
 
-        <div className="flex justify-start">
+        <div className="flex flex-wrap justify-start gap-8">
           {projectsData.map((project) => {
             const Icon = project.Icon;
 
