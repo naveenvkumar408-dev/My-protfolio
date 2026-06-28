@@ -56,7 +56,7 @@ const projectsData: ProjectItem[] = [
     Icon: IoPersonCircle,
     badge: "Protfolio",
     githubUrl: "https://github.com/naveenvkumar408-dev/My-protfolio",
-    demoUrl: "https://docapp-frontend-latest.onrender.com",
+    demoUrl: "https://my-protfolio-drab-five.vercel.app/",
     image: profilePic
   }
 ];

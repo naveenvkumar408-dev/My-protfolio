@@ -14,7 +14,7 @@ const Participation = () => {
           </h2>
         </div>
 
-        <div className="flex justify-start">
+        <div className="flex flex-wrap justify-start gap-8">
           <Card className="w-full max-w-[340px] overflow-hidden p-0 bg-white dark:bg-slate-950 border border-slate-200/80 dark:border-slate-800/80">
             {/* Card Image */}
             <div className="relative h-44 w-full overflow-hidden bg-slate-100 dark:bg-slate-800 shadow-inner">
